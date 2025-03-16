@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adam-j-s
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning game maker - everyone has to start somewhere, right?
+- 🌱 I’m currently learning Godot - everyone has to start somewhere, right?
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
